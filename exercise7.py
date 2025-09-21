@@ -28,3 +28,24 @@ print("1" in s)
 print("i" in s)
 print("l" in s)
 
+<<<<<<< HEAD
+print(bin(18))
+
+print(int(0b10010))
+#binary
+print(bin(18))
+
+print(int("0b10010",2))
+#octal
+print(oct(18))
+
+print(int("0o22",8))
+
+#hex
+
+print(hex(18))
+
+print(int("0x12",16))
+
+=======
+>>>>>>> a11b7742013eaed6d8a4f439783a6baa81d0d76a
