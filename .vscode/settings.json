@@ -1,0 +1,14 @@
+{
+    "python.testing.pytestArgs": [
+        "venv",
+        "tests",    // Specify the folder to run tests from
+        "-v",       // Verbose output: shows test names, better than a dot (.)
+        "-s",       // Disable output capture: shows print() statements immediately (great for debugging)
+        "--ff"      // Run failed tests first (useful after fixing an issue)
+        // Add more flags here, e.g., "--durations=5"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+
+  
+}
