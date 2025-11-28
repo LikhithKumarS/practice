@@ -15,6 +15,7 @@ while i<5:
 
 
 """
+
 """
 # take input and print
 n = int(input(("enter the num ")))
@@ -31,6 +32,3 @@ l=list(r)
 print(r,l)
 print(type(r))
 """
-
-
-
