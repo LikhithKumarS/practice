@@ -122,8 +122,14 @@ for i in range(1, 11):
         print(j, end="  ")
     print(j * "₹")
 """
+
+
+
 n = int(input("Enter n"))
 for i in range(n):
     for j in range(i+1):
         print("*", end="")
     print("...")
+
+
+
